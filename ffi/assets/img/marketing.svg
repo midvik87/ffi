@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 231.6 85">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#linear-gradient-8);
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-3, .cls-4 {
+        opacity: .25;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        opacity: .16;
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-11 {
+        opacity: .15;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="48.54" y1="348.14" x2="34.28" y2="-31.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a9c0ff"/>
+      <stop offset="1" stop-color="#d6e5ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="90.48" y1="346.57" x2="76.22" y2="-32.68" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="132.42" y1="344.99" x2="118.16" y2="-34.26" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="174.36" y1="343.41" x2="160.1" y2="-35.84" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="216.3" y1="341.84" x2="202.04" y2="-37.41" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1=".55" y1="60" x2="12.55" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a9c0ff"/>
+      <stop offset="1" stop-color="#a986ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="218.55" y1="40" x2="230.55" y2="40" xlink:href="#linear-gradient-6"/>
+    <clipPath id="clippath">
+      <path class="cls-2" d="M6.88,63.11h-.34c-.9,.03-1.66-.68-1.68-1.58-.02-.9,.69-1.66,1.59-1.68h.09s.32-.01,.32-.01l.02,3.27Z"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="cls-2" d="M224.72,38.86h.33c.9,0,1.64,.73,1.64,1.63,0,.9-.73,1.64-1.63,1.64h-.34s0-3.27,0-3.27Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-8" x1="4.55" y1="40.5" x2="226.05" y2="40.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0c0ff"/>
+      <stop offset="1" stop-color="#a986ff"/>
+    </linearGradient>
+  </defs>
+  <g id="OBJECTS">
+    <g>
+      <rect class="cls-9" x="26.55" width="21" height="85" rx="5.39" ry="5.39"/>
+      <rect class="cls-8" x="68.55" width="21" height="85" rx="5.39" ry="5.39"/>
+      <rect class="cls-6" x="110.55" width="21" height="85" rx="5.39" ry="5.39"/>
+      <rect class="cls-5" x="152.55" width="21" height="85" rx="5.39" ry="5.39"/>
+      <rect class="cls-7" x="194.55" width="21" height="85" rx="5.39" ry="5.39"/>
+      <circle class="cls-4" cx="6.55" cy="60" r="6"/>
+      <circle class="cls-3" cx="224.55" cy="40" r="6"/>
+      <g class="cls-11">
+        <g>
+          <g class="cls-12">
+            <image width="9" height="5" transform="translate(-.46 59.18)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAFCAYAAACXU8ZrAAAACXBIWXMAAAsSAAALEgHS3X78AAAAJUlEQVQImWNMsP3/nwEPWHCYkZEJnwIYoJ4iFnQBkBtQBBgYGADNOgVxkjb5KAAAAABJRU5ErkJggg=="/>
+          </g>
+          <image width="219" height="37" transform="translate(6.54 30.18)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANsAAAAlCAYAAADLG5wpAAAACXBIWXMAAAsSAAALEgHS3X78AAAEgklEQVR4nO2dh27bMBBA6f5X0b33boOO7J04eyNt9k6cnWa1QNO990Dnl6lgbdYUfaQlW5Ip6h4QiJbcWDzd81GMpMaIIbSesyxpT2K2hY3pVzFjYoDoTWgTreVsWq6suihks70t9Yaplygg4j2hS6rmM0nJeB28lo2B0iFeEopkajptWba0j9l33CvZxN/F2pMvUDokf7RPIioayVLJ+Nczr92J0Xbefq4n+xzanniO0iG5o23yxE/ZJZMJNvvGOwHaLzgTD6VDckHLpGk8mR42QrLNvfU/2al4qio3/gyFQ9yhXcJQ0QggGV0GIZlIx0X5MBaFQ9ygVbI0nJBXtMS7wiU2FQ6SjS7HnqJwUWFn0LJsB5ufqFNN2rmYoPOd+uNyyebf65PMnZfgqovC6cFmD/y31xif7EIbWkeIRCJBKGNkoyx80C+Juy5nHlC6HH2CwnnJehd8RVDGRBmBsxhlA6CiEZJZLXQUjUGFEw8m/Rl5jMLlyt1Oy8pIZgAowrKoO5HMthTfB2wLrWx1x9Ki8Tu3+FH/pO2+Yq9wbI9ROPf8Ey1Ftug5lU1asVTSif8G2KaSrahPvfcFS4zao/B5WhhEY1Dh/u9tKvD09fAjFM4Jax3ClUE+yVY2osfxKMhOUNEIMHRc+hS+JO25Clc4FE4OlYxtVMlWOW5WDAPvTM0RuKKFUTQGFQ7q09BDFE5ktd1+biZGqGrC3JgF2rHqw8mkFCcXlj+HP8C91+C/xaFwaVba4Fln2jZZMsauoD6IihbUZxUaPm36r0en3yqoaPxm/lUURCNByVZ1KB1a2uIDbUJVI5JZSKxpSZZb5V841ZPRiZLvHeVF44cQ9Gfli3mB7iuyD5VYe+BBNNVjoonDx5qp6MXD18pWeVD+jWaiaISbhRR7d+dm9IaTSy32EQ1bRlE04qdsFQcsSxwyMla/mh1sflKE73+UhGOiiT2unY7u4NoX2ahoRHLOsvYtGsEe3IEr3MAt84VbbMZJIQjPZSvfLw90VERjMOFETBZuoQmuaCTiVY14OUFStk99d/X69+gG+vYNeWz675sTFyYa1Ne6GZyb9aSyUdGg9WxtlEUjwEwk/2qoxIwqNx+X9wNFS5JXEEr3yu9gpmz8wCDzsOEjdHtO33Z4Y5WIJ+9ghipa/SzmAMN1IKhgtl8AyEbZ/IlBhqDCQbIxwiZdolE+RG6YwxzgyRqMkj3qe43Ee4VQMmcMFqvPcXu39I7jXAN8LyJrNyYwD0RixbuTV2FnbCCwiqpbIrZ+YYDdwM7XZBfnUno29YspLxoB9htFg5HL5nDd9m8MbD5Q4VSy8e3ujcLGerZe/lg/uozPYy6oyEk2FMx7hkvVk01iu2s9mGMwU5fliVWpZdMC5kQ2HMt27w8GMwhGypw9dh1qd6zlf4yma53/3weM5kXMDSdgkDRltBy45E3xBCen6S57n9P1/JcASuYODJbmjFU4e16HH7LJ1rUsoWS5gEELIeOV2auejFwrW+syCpYvGEADmKhy9oBTkkWqthUUyjcIIX8BdFJ4Zvn35VkAAAAASUVORK5CYII="/>
+          <g class="cls-10">
+            <image width="9" height="4" transform="translate(223.54 38.18)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAECAYAAABcDxXOAAAACXBIWXMAAAsSAAALEgHS3X78AAAAGUlEQVQImWNc0fb/PwMBwERIARUVMTAwAADPtgM0TXV6fgAAAABJRU5ErkJggg=="/>
+          </g>
+        </g>
+      </g>
+      <path class="cls-1" d="M6.55,59.5c34.5,0,27-44,58-44s22.5,50,66.5,50c30,0,26-35,47-35,10,0,21,10,46,10"/>
+    </g>
+  </g>
+</svg>
